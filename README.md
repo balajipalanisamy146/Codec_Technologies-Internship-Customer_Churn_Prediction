@@ -4,7 +4,7 @@ A machine learning project that predicts whether a customer is likely to leave a
 
 Customer churn prediction helps businesses identify customers at risk of leaving and take proactive actions to improve retention.
 
-🎯 ## Project Objective
+## Project Objective
 
 The goal of this project is to:
 
@@ -16,42 +16,11 @@ Build machine learning models to predict churn
 
 Provide business insights to improve customer retention
 
-📂 Dataset
+## Dataset
 
 Dataset used: Telco Customer Churn Dataset
 
-The dataset contains customer information such as:
-
-Feature	Description
-customerID	Unique customer identifier
-gender	Customer gender
-SeniorCitizen	Whether customer is a senior citizen
-Partner	Whether the customer has a partner
-Dependents	Whether the customer has dependents
-tenure	Number of months with the company
-PhoneService	Phone service subscription
-InternetService	Type of internet service
-Contract	Contract type
-PaymentMethod	Payment method used
-MonthlyCharges	Monthly bill amount
-TotalCharges	Total amount paid
-Churn	Whether the customer left the company
-
-Target variable: Churn
-
-🛠 Tools & Technologies
-
-Python
-
-Jupyter Notebook
-
-Scikit-learn
-
-Pandas
-
-Seaborn
-
-🔎 Project Workflow
+## Project Workflow
 1️⃣ Data Cleaning
 
 Removed unnecessary columns
@@ -80,11 +49,7 @@ Monthly charges vs churn
 
 The following classification models were trained:
 
-Logistic Regression
-
 Random Forest
-
-XGBoost
 
 4️⃣ Model Evaluation
 
